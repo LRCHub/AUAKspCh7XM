@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Crush On You",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-07T08:19:39.659349Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crush On You",
+      "artist": "Nero",
+      "has_synced": true,
+      "path": "select/01_Crush_On_You_Nero.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I've Got a Crush On You",
+      "artist": "The Rat Pack",
+      "has_synced": true,
+      "path": "select/02_I've_Got_a_Crush_On_You_The_Rat_Pack.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I've Got a Crush on You",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/03_I've_Got_a_Crush_on_You_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I've Got a Crush On You",
+      "artist": "Ella Fitzgerald",
+      "has_synced": true,
+      "path": "select/04_I've_Got_a_Crush_On_You_Ella_Fitzgerald.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crush On You",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/05_Crush_On_You_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crush on You",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/06_Crush_on_You_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I've Got a Crush On You",
+      "artist": "Rod Stewart feat. Diana Ross",
+      "has_synced": false,
+      "path": "select/07_I've_Got_a_Crush_On_You_Rod_Stewart_feat._Diana_Ross.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I've Got a Crush on You",
+      "artist": "Rod Stewart Diana Ross",
+      "has_synced": false,
+      "path": "select/08_I've_Got_a_Crush_on_You_Rod_Stewart_Diana_Ross.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crush On You",
+      "artist": "Lil' Kim",
+      "has_synced": true,
+      "path": "select/09_Crush_On_You_Lil'_Kim.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crush on You (album version)",
+      "artist": "Lil’ Kim",
+      "has_synced": true,
+      "path": "select/10_Crush_on_You_(album_version)_Lil’_Kim.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crush On You",
+      "artist": "The Jets",
+      "has_synced": true,
+      "path": "select/11_Crush_On_You_The_Jets.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I've Got a Crush On You (feat. Frank Sinatra)",
+      "artist": "Barbra Streisand feat. Frank Sinatra",
+      "has_synced": false,
+      "path": "select/12_I've_Got_a_Crush_On_You_(feat._Frank_Sinatra)_Barbra_Streisand_feat._Frank_Sinatra.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I've Got A Crush On You",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/13_I've_Got_A_Crush_On_You_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I've Got a Crush on You",
+      "artist": "Linda Ronstadt",
+      "has_synced": true,
+      "path": "select/14_I've_Got_a_Crush_on_You_Linda_Ronstadt.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I’ve Got A Crush On You (With Frank Sinatra)",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/15_I’ve_Got_A_Crush_On_You_(With_Frank_Sinatra)_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I've Got A Crush On You (feat Diana Ross)",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/16_I've_Got_A_Crush_On_You_(feat_Diana_Ross)_Rod_Stewart.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crush On You",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_Crush_On_You_NMIXX.txt"
+    }
+  ]
+}
